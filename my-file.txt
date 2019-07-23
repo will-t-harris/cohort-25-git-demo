@@ -1,3 +1,5 @@
 My file for the git lecture of the bootcamp.
 
 Adding some edits to test file.
+
+This git branching stuff is both new and confusing?
